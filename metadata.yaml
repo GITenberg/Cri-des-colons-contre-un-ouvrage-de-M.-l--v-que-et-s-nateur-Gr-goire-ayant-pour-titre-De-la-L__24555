@@ -1,0 +1,31 @@
+_repo: Cri-des-colons-contre-un-ouvrage-de-M.-l--v-que-et-s-nateur-Gr-goire-ayant-pour-titre-De-la-L__24555
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tussac, F.-R. de (Fr.-Richard)
+    alias: Tussac, Fr.-Richard de
+    gutenberg_agent_id: '26578'
+    url: http://www.gutenberg.org/2009/agents/26578
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2008-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24555'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HT'
+- !lcsh 'Blacks -- West Indies'
+- !lcsh 'Haiti -- History -- Revolution, 1791-1804'
+- !lcsh 'Slavery -- Dominican Republic'
+- !lcsh 'Grégoire, Henri, 1750-1831. De la littérature des nègres'
+- !lcsh 'Slavery -- West Indies'
+title: Cri des colons contre un ouvrage de M. l'évêque et sénateur Grégoire, ayant
+  pour titre 'De la Littérature des nègres'
+url: http://www.gutenberg.org/ebooks/24555
